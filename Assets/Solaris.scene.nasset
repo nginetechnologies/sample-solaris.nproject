@@ -86,9 +86,9 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "{D54D7A2B-3923-44A0-9DE4-D71B080F5414}",
-                "brdf": "{2BCE97E5-0497-4BD7-87C8-7F6928E8FE37}",
-                "prefiltered": "{699684BE-374E-41FC-B502-BDBEDBCB302D}"
+                "irradiance": "{f7a31ffe-034e-6646-62fe-6bdad06fbfbe}",
+                "brdf": "{ae2182ef-21d9-4184-cf4f-47407f9496c7}",
+                "prefiltered": "{eb5fe566-23b8-e733-2db1-e039a6de5a3f}"
             },
             "data_components": [
                 {
