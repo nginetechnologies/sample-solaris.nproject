@@ -25,43 +25,18 @@
                 "scene": "094a8055-84a3-8bb3-41e7-4b426949e5ef"
             }
         },
-        {
-            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.2569,
-                    4.0131,
-                    2.9938
-                ],
-                "rotation": [
-                    -45.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                "stages": [
-                    "f141b823-5844-4fbc-b106-0635ff52199c",
-                    "DFCA0EF8-EDED-4660-8ADB-43C0AA8F4E60"
-                ]
-            },
-            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
-                "color": [
-                    3.0,
-                    3.0,
-                    3.0,
-                    0.0
-                ],
-                "cascades": 4,
-                "cascade_quality": 0.9499
-            },
+		{
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "{9B1D9B6D-82FF-4151-9FEA-50A506341A78}",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
+                    "name": "Lights"
                 }
-            ]
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fcae04af-3315-f7a3-af90-58af79b8023a"
+            }
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
