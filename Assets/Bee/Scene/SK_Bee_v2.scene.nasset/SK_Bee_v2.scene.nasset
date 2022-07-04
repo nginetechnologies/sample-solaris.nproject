@@ -1,0 +1,222 @@
+{
+    "guid": "15c2bc89-fa81-3c64-63af-50fdd4272cdb",
+    "source": "../SK_Bee_v2.fbx",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "9f21fed8-271e-b43c-baa6-cb444c6c7649",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK_Bee_v2"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+            "instanceGuid": "bba39ccb-27d6-e8b2-8d93-46221860c9b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "123e5ec9-e1e6-d398-babe-d2c96e49368b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Belt"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "b581d3d1-a43e-65be-82f9-eb4db3c1263d",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "3b7c5ae8-d41e-77d8-bb1d-50ba80f94ede"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "b3de5fe7-2303-865c-aa17-d7741abba870",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Hammer"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "6d38adce-08da-ec85-4cab-9ad497a3225b",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "1411e043-e772-5541-8cde-384407d7a351"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "507cba30-30fc-60a1-51f3-202be5df26d1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Teeth"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "fbfa7c9a-70d5-2a77-9828-113deedd221c",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "e41fdd95-eb3b-3b67-ec26-bc958c14239f"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "2fc6cb34-f49a-90d7-2e16-5b3df332231c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Hardhat"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "017e969c-f7b4-51e9-2585-155fff0a7312",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "3f4f56f1-8d7b-f5ab-d5c3-d14009268d02"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "bd4514d5-bef0-3428-71d0-21a32141ff6c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Vest"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "6105cb5a-ea19-b2b9-8b4f-605db3d6ba0c",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "493e5bab-2b03-0cbc-ffad-bc006d1d11de"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "6f47c4b5-bf4f-f2fb-1556-4bc27f987ecc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Body"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "9c369f62-e329-c1af-070f-36255bd4e7aa",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "562ac358-c7c0-61bf-0723-269570863756"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "f250478f-a38c-3ce2-f91a-514e3c8e118a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Shoes"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "2dd8e2cc-30f5-1094-3b03-2ee71726379e",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "34e08824-08aa-3ab7-2473-c38979b356f6"
+                    }
+                },
+                {
+                    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                    "instanceGuid": "b7200312-20c0-71be-bef6-054f3cd0d4b1",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SK_Bee_Wings"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "d3d5885a-9dde-5e28-cfbd-36ea9f5f4537",
+                        "material_instance": "96711cff-30a9-fc43-48ac-9c08562b7dbd"
+                    },
+                    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                        "skin": "7d4a1bc6-8deb-2ba9-7087-1e5e5f290ee7"
+                    }
+                }
+            ],
+            "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                "skeleton": "b6f16cc6-5d26-b171-64ee-1da8fa0fdc8b",
+                "controller": {
+                    "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+                    "animation": "00db0137-72bd-4d1f-9511-eb824757ba15"
+                }
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "15c2bc89-fa81-3c64-63af-50fdd4272cdb"
+    },
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "thumbnailGuid": "32d3f9aa-fa3b-9727-98c9-9f7b3f4ca5c9"
+}

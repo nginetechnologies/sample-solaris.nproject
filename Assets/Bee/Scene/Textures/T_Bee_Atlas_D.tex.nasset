@@ -1,0 +1,205 @@
+{
+    "guid": "851d62a3-8b27-4832-5738-53a94a175441",
+    "source": "T_Bee_Atlas_D.png",
+    "typeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "preset": 3,
+    "format": 131,
+    "usage_flags": 6,
+    "mipmap_info": [
+        {
+            "resolution": [
+                882.0,
+                849.0
+            ],
+            "offset": 0,
+            "size": 376584
+        },
+        {
+            "resolution": [
+                441.0,
+                424.0
+            ],
+            "offset": 376584,
+            "size": 94128
+        },
+        {
+            "resolution": [
+                220.0,
+                212.0
+            ],
+            "offset": 470712,
+            "size": 23320
+        },
+        {
+            "resolution": [
+                110.0,
+                106.0
+            ],
+            "offset": 494032,
+            "size": 6048
+        },
+        {
+            "resolution": [
+                55.0,
+                53.0
+            ],
+            "offset": 500080,
+            "size": 1568
+        },
+        {
+            "resolution": [
+                27.0,
+                26.0
+            ],
+            "offset": 501648,
+            "size": 392
+        },
+        {
+            "resolution": [
+                13.0,
+                13.0
+            ],
+            "offset": 502040,
+            "size": 128
+        },
+        {
+            "resolution": [
+                6.0,
+                6.0
+            ],
+            "offset": 502168,
+            "size": 32
+        },
+        {
+            "resolution": [
+                3.0,
+                3.0
+            ],
+            "offset": 502200,
+            "size": 8
+        },
+        {
+            "resolution": [
+                1.0,
+                1.0
+            ],
+            "offset": 502208,
+            "size": 8
+        }
+    ],
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        882.0,
+        849.0
+    ],
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 376584
+            },
+            {
+                "level": 1,
+                "offset": 376584,
+                "size": 94128
+            },
+            {
+                "level": 2,
+                "offset": 470712,
+                "size": 23320
+            },
+            {
+                "level": 3,
+                "offset": 494032,
+                "size": 6048
+            },
+            {
+                "level": 4,
+                "offset": 500080,
+                "size": 1568
+            },
+            {
+                "level": 5,
+                "offset": 501648,
+                "size": 392
+            },
+            {
+                "level": 6,
+                "offset": 502040,
+                "size": 128
+            },
+            {
+                "level": 7,
+                "offset": 502168,
+                "size": 32
+            },
+            {
+                "level": 8,
+                "offset": 502200,
+                "size": 8
+            },
+            {
+                "level": 9,
+                "offset": 502208,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 190032
+            },
+            {
+                "level": 1,
+                "offset": 190032,
+                "size": 47488
+            },
+            {
+                "level": 2,
+                "offset": 237520,
+                "size": 12096
+            },
+            {
+                "level": 3,
+                "offset": 249616,
+                "size": 3136
+            },
+            {
+                "level": 4,
+                "offset": 252752,
+                "size": 784
+            },
+            {
+                "level": 5,
+                "offset": 253536,
+                "size": 256
+            },
+            {
+                "level": 6,
+                "offset": 253792,
+                "size": 64
+            },
+            {
+                "level": 7,
+                "offset": 253856,
+                "size": 16
+            },
+            {
+                "level": 8,
+                "offset": 253872,
+                "size": 16
+            },
+            {
+                "level": 9,
+                "offset": 253888,
+                "size": 16
+            }
+        ]
+    }
+}
