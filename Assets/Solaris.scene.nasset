@@ -47,6 +47,31 @@
                 "scene": "fcae04af-3315-f7a3-af90-58af79b8023a"
             }
         },
+		{
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "{95466458-554C-44F4-9D6E-D0DC1A5647AC}",
+			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.448,
+					-12.4,
+					3
+                ]
+			},
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Heart",
+                    "flags": 4
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "{95466458-554C-44F4-9D6E-D0DC1A5647AC}"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "44355ccc-886f-2d7d-9cd8-67bfcac898ff"
+            }
+        },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",

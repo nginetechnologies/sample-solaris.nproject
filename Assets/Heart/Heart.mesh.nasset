@@ -1,0 +1,124 @@
+{
+	"guid": "44355ccc-886f-2d7d-9cd8-67bfcac898ff",
+	"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+	"instanceGuid": "b256f4c3-75f4-a141-c1f8-618e8d90e0ba",
+	"assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+	"children": [
+		{
+			"typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+			"instanceGuid": "{E9F845D7-8C1C-48FE-9A70-74DE51AAB1C0}",
+			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+				"type": 0,
+				"layer": 0
+			},
+			"data_components": [
+				{
+					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+					"name": "heart heart1 Heart"
+				},
+				{
+					"typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+					"rotation": [
+						200.0,
+						0.0,
+						0.0
+					]
+				},
+				{
+					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+					"mask": [
+						"21243f2e-905b-40d8-8913-5282b89ac77c"
+					]
+				}
+			],
+			"children": [
+				{
+					"typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+					"instanceGuid": "d7d1bcba-a94b-8897-2db1-99c7763b175e",
+					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+						"type": 0,
+						"layer": 3,
+						"body_flags": 1
+					},
+					"183d677a-b427-4b1d-a276-97b3e6681304": {
+						"mask": [
+							"d6a09c51-8ccf-416e-8154-66f9404d2a44"
+						]
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Collectible"
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+							"instanceGuid": "a2498c11-6904-d055-d7da-555f1ca3d6b1",
+							"10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+								"physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+							},
+							"e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+								"half_extent": [
+									0.5
+								]
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "New Box Collider"
+								}
+							]
+						}
+					]
+				},
+				{
+					"typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+					"instanceGuid": "8cad72ca-2541-db95-e14c-852fe0f760ff",
+					"10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+						"physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+					},
+					"508647ca-01f3-4930-9e33-4562692b719f": {
+						"mesh": "725ee85a-1b29-547e-e984-baeba5e97342"
+					},
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Mesh Collider"
+						}
+					],
+					"children": [
+						{
+							"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+							"instanceGuid": "c797e71e-2ed0-ee09-f8ee-15f32c7002e6",
+							"9f750482-b822-4d4b-be6a-9c135c614328": {
+								"stages": [
+									"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+									"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+									"86d22670-1f09-4246-ae43-ef7f1b16c977"
+								]
+							},
+							"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+								"mesh": "44355ccc-886f-2d7d-9cd8-67bfcac898ff",
+								"material_instance": "{29683558-9FA6-4E0F-86A4-F04042806643}"
+							},
+							"data_components": [
+								{
+									"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+									"name": "Mesh"
+								},
+								{
+									"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+									"mask": [
+										"13ca71b8-d868-4f7c-a0bb-c7585db11327"
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+    "thumbnailGuid": "d5820225-e9fd-f4ee-e517-0317ba8adef6"
+}
