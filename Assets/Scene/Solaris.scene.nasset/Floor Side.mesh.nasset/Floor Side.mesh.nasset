@@ -18,7 +18,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "typeGuid": "4C1071CC-31CC-4DBE-A810-96F2C521A280",
                     "instanceGuid": "94f20e27-4757-3af6-ff27-11027838619f",
                     "data_components": [
                         {
@@ -26,187 +26,113 @@
                             "name": "Floor Side Main Collider"
                         }
                     ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "16aa1251-b54a-eff9-41e1-77e7d2449c8d",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Floor Side Main"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "692cfee4-0264-3225-20ef-4da349210ec5",
-                                "material_instance": "8abd130a-279a-544a-6f31-5f13894b9f2b"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "692cfee4-0264-3225-20ef-4da349210ec5"
+                    "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
+                        "half_extent": [ 1, 1 ]
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     }
                 },
+				{
+					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+					"instanceGuid": "16aa1251-b54a-eff9-41e1-77e7d2449c8d",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Floor Side Main"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "692cfee4-0264-3225-20ef-4da349210ec5",
+						"material_instance": "8abd130a-279a-544a-6f31-5f13894b9f2b"
+					}
+				},
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "cb5fad3a-0433-0f69-65a7-1af9e5ec8968",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Floor Side White Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "9bb8ff31-8af8-b898-dea3-e907f609a379",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Floor Side White"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "56ec644c-0715-f0d8-0495-158a8eaabfcc",
-                                "material_instance": "06ffbde4-0cb0-d243-47a9-90ef8ad139be"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "56ec644c-0715-f0d8-0495-158a8eaabfcc"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
+					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+					"instanceGuid": "9bb8ff31-8af8-b898-dea3-e907f609a379",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Floor Side White"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "56ec644c-0715-f0d8-0495-158a8eaabfcc",
+						"material_instance": "06ffbde4-0cb0-d243-47a9-90ef8ad139be"
+					}
+				},
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "8616c8da-5f38-85b5-0faa-bc39faefaccf",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Floor Side Secondary Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "f8c2c309-0cac-f051-54f8-a69076100d01",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Floor Side Secondary"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "a90a8056-a545-7362-21c5-1f3a6c16eb2a",
-                                "material_instance": "659ae299-4360-7c17-1b56-56bc7a0e176c"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "a90a8056-a545-7362-21c5-1f3a6c16eb2a"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
+					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+					"instanceGuid": "f8c2c309-0cac-f051-54f8-a69076100d01",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Floor Side Secondary"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "a90a8056-a545-7362-21c5-1f3a6c16eb2a",
+						"material_instance": "659ae299-4360-7c17-1b56-56bc7a0e176c"
+					}
+				},
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "212538ff-900f-991f-e405-82ceaf0be07b",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Floor Side Glow Blue Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "14b67c98-b0d8-78ce-acb6-5f7e559c3f8e",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Floor Side Glow Blue"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "02e2c64e-7e74-882a-d3c6-13c37e328bd1",
-                                "material_instance": "069f8e8d-d4a2-5a0e-7efe-0bb43c38436d"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "02e2c64e-7e74-882a-d3c6-13c37e328bd1"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                },
+					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+					"instanceGuid": "14b67c98-b0d8-78ce-acb6-5f7e559c3f8e",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Floor Side Glow Blue"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "02e2c64e-7e74-882a-d3c6-13c37e328bd1",
+						"material_instance": "069f8e8d-d4a2-5a0e-7efe-0bb43c38436d"
+					}
+				},
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "961845fb-4fed-c1f9-4b63-8754936898a7",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Floor Side Black Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "b22482b1-b1f9-f0f4-422e-f37fdfbde011",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Floor Side Black"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "558ce344-6abe-a9ec-fba8-2870bbcae52c",
-                                "material_instance": "1ee74519-67ea-a4f3-98da-abed73761181"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "558ce344-6abe-a9ec-fba8-2870bbcae52c"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
-                }
+					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+					"instanceGuid": "b22482b1-b1f9-f0f4-422e-f37fdfbde011",
+					"data_components": [
+						{
+							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+							"name": "Floor Side Black"
+						}
+					],
+					"9f750482-b822-4d4b-be6a-9c135c614328": {
+						"stages": [
+							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+						]
+					},
+					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+						"mesh": "558ce344-6abe-a9ec-fba8-2870bbcae52c",
+						"material_instance": "1ee74519-67ea-a4f3-98da-abed73761181"
+					}
+				}
             ]
         }
     ],
