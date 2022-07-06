@@ -17,10 +17,10 @@
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 3.0,
-                "walkingSpeed": 3.5,
-                "runningSpeed": 5.0,
-                "walkingTurnSpeed": 3.0,
-                "runningTurnSpeed": 3.5
+                "walkingSpeed": 2.0,
+                "runningSpeed": 4.0,
+                "walkingTurnSpeed": 5.0,
+                "runningTurnSpeed": 6.5
             },
             "data_components": [
                 {
@@ -112,7 +112,7 @@
                                     180.0
                                 ],
 								"scale": [
-									0.0099
+									0.5
 								]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {

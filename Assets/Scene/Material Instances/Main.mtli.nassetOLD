@@ -1,19 +1,20 @@
 {
-    "guid": "75ef0394-5757-6e92-a020-e2359d96a21d",
+    "guid": "8abd130a-279a-544a-6f31-5f13894b9f2b",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
     "push_constants": [
         {
             "type": 0,
-            "color": "#0EA5E9"
+            "color": "#05"
+        },
+        {
+            "type": 1,
+            "value": 0.0
         },
         {
             "type": 1,
             "value": 1.0
-        },
-        {
-            "type": 1,
-            "value": 0.75
         }
-    ]
+    ],
+    "thumbnailGuid": "8f89236e-ebf0-9b47-624b-00d3e2a32e18"
 }
