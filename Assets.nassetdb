@@ -259,6 +259,14 @@
         "path": "Assets/Scene/Material Instances/Black.mtli.nasset",
         "thumbnail": "de9cbf79-bafe-231b-279a-8842ecaa1c3a"
     },
+    "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "22052136-9e5d-658d-8dc8-60f68505791a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
@@ -290,6 +298,11 @@
     "25866af5-2ad3-aca6-211a-6f46116c76a6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Solaris.scene.nasset/Door Single.mesh.nasset/Thumbnails/Door Single.mesh.nasset.tex.nasset"
+    },
+    "25cf799a-060f-4dcf-8993-c95c01cf5735": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Loop.anim.nasset"
     },
     "267396fc-871e-de25-2695-7726c1fc3bd3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -360,6 +373,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "2c517e35-ff2d-cf59-a08b-cb0b05196c8b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.meshskin.nasset"
     },
     "2d7ae0bb-132b-c7a8-f043-d49a3a493e50": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -445,6 +463,11 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Shoes.meshskin.nasset"
     },
+    "38253007-2fdb-265f-d6aa-62bd39aa4890": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.meshskin.nasset"
+    },
     "38488c75-3949-0dc1-3f3c-7015b01f03ed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
@@ -502,6 +525,11 @@
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/SK_Bee_Hardhat.meshskin.nasset"
+    },
+    "3f6e52d4-b050-345f-6d94-8ccd8540e7d1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
     },
     "4061e0c8-a16c-b7a2-1d3b-75a5301b2632": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -635,6 +663,14 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "520ea1bd-c3da-91d5-c01c-4f2c68f96595": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
@@ -688,10 +724,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5b7ca89c-fffc-d329-098a-56dc39bff06a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/White.mtli.nasset"
+    },
     "5cce5e58-a720-407a-c50c-ae657af51677": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
         "path": "Assets/Scene/Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -728,6 +776,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Idle.anim.nasset"
     },
     "6105cb5a-ea19-b2b9-8b4f-605db3d6ba0c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -822,6 +875,11 @@
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Solaris_Thumb.tex.nasset"
     },
+    "6d0ab017-8399-4b5c-978e-99e5d0f1b248": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Start.anim.nasset"
+    },
     "6d38adce-08da-ec85-4cab-9ad497a3225b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
@@ -914,6 +972,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "75ef0394-5757-6e92-a020-e2359d96a21d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Main.mtli.nasset"
     },
     "76fa48e7-ac6b-efa9-8745-981fa34bec0c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1171,11 +1233,24 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "96059680-8978-22da-8061-2927bed28cb4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK_Robot.scene.nasset"
+    },
     "96711cff-30a9-fc43-48ac-9c08562b7dbd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Bee/Scene/Material Instances/M_Bee_Atlas.mtli.nasset",
         "thumbnail": "0cf4e33d-ab18-cabf-2695-9a84512a0675"
+    },
+    "9786f884-e497-3aeb-dd17-0519cb528be9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "984370e3-0714-56bb-8039-27b0a391d637": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1255,6 +1330,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a8146617-705b-45d8-8081-2fec12d073ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Run.anim.nasset"
     },
     "a90a8056-a545-7362-21c5-1f3a6c16eb2a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1381,6 +1461,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Bee/Scene/SK_Bee_v2.scene.nasset/Thumbnails/SK_Bee_Hardhat.mesh.nasset.tex.nasset"
     },
+    "bcf8697c-df8a-f525-3eba-f7cade33b4b1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.meshskin.nasset"
+    },
     "bd193980-8654-3095-8fd4-62ec0ccff585": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
@@ -1434,6 +1519,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c129b110-8096-7499-6669-23a7e1bb0c82": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "c284e93f-7521-159b-3d73-f7647bbb0648": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1579,9 +1669,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Solaris.scene.nasset/Wall 01 Half.mesh.nasset/Thumbnails/Wall 01 Half.mesh.nasset.tex.nasset"
     },
+    "d553038a-3287-4d7a-8c5c-9d5b349af7b6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_End.anim.nasset"
+    },
     "d5820225-e9fd-f4ee-e517-0317ba8adef6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Heart/Thumbnails/Heart.mesh.nasset.tex.nasset"
+    },
+    "d63060d1-1723-b34e-aa10-7d8aef284fbe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Black.mtli.nasset"
     },
     "d87f21ae-3f1b-9706-df1e-e4f791c10f23": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1712,6 +1811,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e78262a2-99d6-4383-b4a8-b8839bc12f2e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Walk.anim.nasset"
+    },
     "e78a8814-4ab7-b0bd-6229-f4975656dd8e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1773,6 +1877,10 @@
         "path": "Assets/Player/Player.scene.nasset",
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
+    "ed607c07-e87b-b9c3-ddc8-745e45585d9d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Robot/Material Instances/Eyes.mtli.nasset"
+    },
     "eef4cd4c-9283-e380-ce0f-c5c67dad3b1b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Solaris.scene.nasset/Door Double Wall.mesh.nasset/Thumbnails/Door Double Wall.mesh.nasset.tex.nasset"
@@ -1781,6 +1889,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
         "path": "Assets/Scene/Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner Glow Blue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "efc10eda-589a-1978-ff4c-4ce8f569580d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
