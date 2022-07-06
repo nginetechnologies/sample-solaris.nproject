@@ -5,15 +5,15 @@
     "push_constants": [
         {
             "type": 0,
-            "color": "#934e11"
+            "color": "#FFA500"
         },
         {
             "type": 1,
-            "value": 0.0
+            "value": 0.7907
         },
         {
             "type": 1,
-            "value": 1.0
+            "value": 0.1272
         }
     ],
     "thumbnailGuid": "8a5ac3bd-3d8a-9b50-b09e-a058223c7fa7"
