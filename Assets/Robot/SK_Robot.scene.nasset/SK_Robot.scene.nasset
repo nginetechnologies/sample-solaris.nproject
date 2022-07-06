@@ -22,9 +22,35 @@
             ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "scale": [
-                    0.01
+                    1.0
                 ]
             },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a368f44a-c9fa-9c6f-b729-ec90401bfa4f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Robot"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1a04db62-48b7-8f34-ec1c-6761da608d59"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "00ae1b17-66a8-cc41-389a-10e6cac1cd15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Robot Export"
+                }
+            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
             }
