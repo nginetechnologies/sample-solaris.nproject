@@ -110,19 +110,22 @@
                                     0.0,
                                     -0.0,
                                     180.0
-                                ]
+                                ],
+								"scale": [
+									0.0099
+								]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "15c2bc89-fa81-3c64-63af-50fdd4272cdb"
+                                "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Bee character scene"
+                                    "name": "Robot character scene"
                                 },
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "9f21fed8-271e-b43c-baa6-cb444c6c7649"
+                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
                                 }
                             ],
                             "children": [
@@ -137,19 +140,19 @@
                                         {
                                             "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
                                             "move_animations": [
-                                                "8037574e-40ef-e1b2-336d-92a6eb7adef2",
-                                                "00db0137-72bd-4d1f-9511-eb824757ba15",
-                                                "d91652ab-07a1-5625-9526-9183169025c5"
+                                                "5ef10529-012b-4f65-895f-e0e4c0fbce78",
+                                                "e78262a2-99d6-4383-b4a8-b8839bc12f2e",
+                                                "a8146617-705b-45d8-8081-2fec12d073ef"
                                             ],
                                             "jump_animations": [
-                                                "f0e3647c-c7d3-e40a-e8da-356393858544",
-                                                "8ebc36da-b42b-e486-3b6d-3fd5217e3d06",
-                                                "9f8f19fe-2279-41e3-e8eb-9eba45a4fef2"
+                                                "6d0ab017-8399-4b5c-978e-99e5d0f1b248",
+                                                "25cf799a-060f-4dcf-8993-c95c01cf5735",
+                                                "d553038a-3287-4d7a-8c5c-9d5b349af7b6"
                                             ]
                                         },
                                         {
                                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "bba39ccb-27d6-e8b2-8d93-46221860c9b8"
+                                            "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
                                         }
                                     ]
                                 }
