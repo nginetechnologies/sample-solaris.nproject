@@ -47,16 +47,16 @@
                 "scene": "fcae04af-3315-f7a3-af90-58af79b8023a"
             }
         },
-		{
+        {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "{95466458-554C-44F4-9D6E-D0DC1A5647AC}",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     11.448,
-					-12.4,
-					3
+                    -12.4,
+                    3
                 ]
-			},
+            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -273,5 +273,6 @@
             1.0
         ]
     },
-    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "thumbnailGuid": "10d99805-734b-0df1-6e6a-84199663ea75"
 }
