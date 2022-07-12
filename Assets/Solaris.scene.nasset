@@ -5047,21 +5047,399 @@
             ]
         },
         {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9b1d9b6d-82ff-4151-9fea-50a506341a78",
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "c677ff0e-630b-fb43-a01e-ae1994bf82ad",
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9b1d9b6d-82ff-4151-9fea-50a506341a78"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Lights",
-                    "flags": 4
+                    "name": "Main 01"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "fcae04af-3315-f7a3-af90-58af79b8023a"
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    9.5144,
+                    -17.2008,
+                    3.2033
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "d4da40b0-a72a-899f-e103-6bbd8e2c952d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main Bottom"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.3461,
+                    -12.0038,
+                    -1.3808
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#ffa700",
+                "intensity": 105.0663
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "691619d3-4506-38dc-22a7-e358f7b5036c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.654,
+                    -20.5795,
+                    3.6422
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "55f0ae67-a2ae-9b91-7361-c773f7c8edec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    17.9509,
+                    -6.5852,
+                    3.2424
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#ffa900",
+                "intensity": 84.3679
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "b1223099-77f4-11c5-f3ee-9410cb8109b1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Room"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    13.9538,
+                    1.8752,
+                    3.7858
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "e9fd8b6e-da5a-9204-13dd-8d1f331e61e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.2508,
+                    -20.0092,
+                    4.9407
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#ffa900",
+                "intensity": 84.3679
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "220dc2c6-668c-c528-8e12-db795def0637",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.6414,
+                    -13.1675,
+                    3.0734
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "852ed067-a26e-4d07-a9b3-5c476babe520",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Main 06"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    17.9509,
+                    -6.5852,
+                    3.2424
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#ffa900",
+                "intensity": 84.3679
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "cb2035f1-3f97-d516-74c5-ab868eb1c03b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cryo Tube"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    12.0046,
+                    -4.989,
+                    2.5702
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "60dcdd7c-d584-4c9d-8a1a-a16b262c3d63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hallway 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.1053,
+                    -7.0137,
+                    1.9095
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "aa64f540-76ec-285f-3421-194c26e8f59f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hallway 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.8856,
+                    -20.9897,
+                    1.9491
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#00d1ff",
+                "intensity": 73.2624
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "9a59202f-f2ae-707c-77b1-f6bb814321f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Doorway"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.5904,
+                    -7.1,
+                    2.1878
+                ],
+                "rotation": [
+                    89.9894,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#C6A505",
+                "intensity": 149.4
             }
         },
         {
