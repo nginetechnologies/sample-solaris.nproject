@@ -8,18 +8,19 @@
     "instanceGuid": "499d437f-9037-171c-8f00-e833428396c2",
     "children": [
         {
-            "typeGuid": "F05A46E2-8D45-44F3-AAB1-E5940E229738",
+            "typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
             "instanceGuid": "ca0b344d-1d90-e44d-078b-f8d41f0da40f",
-			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-				"type": 2,
-				"layer": 1,
-				"overriddenMass": 0.001
-			},
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate SM1 Physics Body"
-                }
+                },
+				{
+					"typeGuid": "653EE503-F473-47D2-BE45-08A577D17B86",
+					"type": 2,
+					"layer": 1,
+					"overriddenMass": 0.001
+				}
             ],
             "children": [
                 {
