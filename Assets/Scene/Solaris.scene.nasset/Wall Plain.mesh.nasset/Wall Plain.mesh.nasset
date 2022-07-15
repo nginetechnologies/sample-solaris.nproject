@@ -8,12 +8,16 @@
     "instanceGuid": "68823875-5547-4626-8d7f-1b868a8acaeb",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "79ebb4f7-2367-e044-5343-5a5eb8d1cd74",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wall Plain Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -175,5 +179,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "12d908ce-02cf-172c-ea4a-848c69ab28b4"
     },
-    "thumbnailGuid": "04bfcae4-70c3-4282-7c14-c68cc6ea79bd"
+    "thumbnailGuid": "04bfcae4-70c3-4282-7c14-c68cc6ea79bd",
+    "data_components": []
 }

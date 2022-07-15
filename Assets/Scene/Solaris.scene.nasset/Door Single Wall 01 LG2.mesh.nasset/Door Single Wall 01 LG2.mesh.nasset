@@ -8,12 +8,16 @@
     "instanceGuid": "f526f9ac-d069-45d3-e125-bae8b5451308",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "1dc45ad1-bf9e-4cf2-fddd-b6e57ad27d05",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Door Single Wall 01 LG2 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -175,5 +179,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "d91b3334-d757-9610-6c1e-30af76d7350e"
     },
-    "thumbnailGuid": "bd3634b2-8bba-adb4-5199-c932a3d65fd5"
+    "thumbnailGuid": "bd3634b2-8bba-adb4-5199-c932a3d65fd5",
+    "data_components": []
 }

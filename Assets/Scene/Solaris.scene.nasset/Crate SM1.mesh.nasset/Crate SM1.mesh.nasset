@@ -8,19 +8,19 @@
     "instanceGuid": "499d437f-9037-171c-8f00-e833428396c2",
     "children": [
         {
-            "typeGuid": "DE8F8DA2-D37F-41DA-BC6E-580435FE605F",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "ca0b344d-1d90-e44d-078b-f8d41f0da40f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate SM1 Physics Body"
                 },
-				{
-					"typeGuid": "653EE503-F473-47D2-BE45-08A577D17B86",
-					"type": 2,
-					"layer": 1,
-					"overriddenMass": 0.001
-				}
+                {
+                    "typeGuid": "653EE503-F473-47D2-BE45-08A577D17B86",
+                    "type": 2,
+                    "layer": 1,
+                    "overriddenMass": 0.001
+                }
             ],
             "children": [
                 {
@@ -58,7 +58,7 @@
                         "mesh": "db3de0b7-3d90-b38a-00d8-5d8358d1e6e1"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "{6F07F2FF-F6C1-49F2-BA3C-7B335B4FAD76}"
+                        "physical_material": "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76"
                     }
                 },
                 {
@@ -96,7 +96,7 @@
                         "mesh": "ad5e8e7a-434f-b1c6-3ec3-4ac8ab5a32df"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "{6F07F2FF-F6C1-49F2-BA3C-7B335B4FAD76}"
+                        "physical_material": "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76"
                     }
                 },
                 {
@@ -134,7 +134,7 @@
                         "mesh": "32c02574-c1ae-cc60-7952-9fc258741583"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "{6F07F2FF-F6C1-49F2-BA3C-7B335B4FAD76}"
+                        "physical_material": "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76"
                     }
                 },
                 {
@@ -172,7 +172,7 @@
                         "mesh": "189ad329-1fa7-84f4-3e70-5565c4071a91"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "{6F07F2FF-F6C1-49F2-BA3C-7B335B4FAD76}"
+                        "physical_material": "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76"
                     }
                 },
                 {
@@ -210,7 +210,7 @@
                         "mesh": "4ddfcd8e-9d1a-d1f6-bd06-5e0efa523d2b"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "{6F07F2FF-F6C1-49F2-BA3C-7B335B4FAD76}"
+                        "physical_material": "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76"
                     }
                 }
             ]
@@ -219,5 +219,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "6c3fd1c2-441d-dca6-5525-6e72101580b9"
     },
-    "thumbnailGuid": "2d7ae0bb-132b-c7a8-f043-d49a3a493e50"
+    "thumbnailGuid": "2d7ae0bb-132b-c7a8-f043-d49a3a493e50",
+    "data_components": []
 }

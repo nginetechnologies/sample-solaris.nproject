@@ -8,12 +8,16 @@
     "instanceGuid": "8f360d1e-7605-653d-35be-54f354e9d336",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "cc0c9bd6-a3a8-3b28-ce7d-2e2f55bb0612",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wall 01 Half Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -137,5 +141,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "be8c1da5-0ac5-96d0-7640-12e1121e82cb"
     },
-    "thumbnailGuid": "d49f6347-beee-5a9c-3d66-ac9e0b55387b"
+    "thumbnailGuid": "d49f6347-beee-5a9c-3d66-ac9e0b55387b",
+    "data_components": []
 }

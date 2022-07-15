@@ -8,12 +8,16 @@
     "instanceGuid": "ea1c0e52-a446-4ee1-a07b-e13cf40f6441",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "269d0787-7840-bdb8-4bc7-8de048563836",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Orange Glow Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -137,5 +141,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "825ee5de-64c6-56dd-cfc3-c377a8bc68db"
     },
-    "thumbnailGuid": "0ada84dc-3b63-dbec-93df-5f634b4dce46"
+    "thumbnailGuid": "0ada84dc-3b63-dbec-93df-5f634b4dce46",
+    "data_components": []
 }

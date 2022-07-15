@@ -8,12 +8,16 @@
     "instanceGuid": "80b36269-5859-4757-0ef4-6f9a77fabd66",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "b1d8874b-5663-196e-efb6-99a605ce0517",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Staircase Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -137,5 +141,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "d9057543-8728-2cdb-391b-67a893a9ad5e"
     },
-    "thumbnailGuid": "43f13747-e7dc-4397-6de2-93c9a3996dcd"
+    "thumbnailGuid": "43f13747-e7dc-4397-6de2-93c9a3996dcd",
+    "data_components": []
 }

@@ -8,12 +8,16 @@
     "instanceGuid": "190f5eb0-bf18-3d6e-5e5a-a392a313a459",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "46856cfe-59b4-e3a7-da7e-a37d182050b2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Computer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -213,5 +217,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "77e011b0-7af7-3e8b-fad7-62ce96460d09"
     },
-    "thumbnailGuid": "cd691aec-8702-85a5-b8b2-03cc7a772cc3"
+    "thumbnailGuid": "cd691aec-8702-85a5-b8b2-03cc7a772cc3",
+    "data_components": []
 }

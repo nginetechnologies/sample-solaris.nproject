@@ -8,7 +8,7 @@
     "instanceGuid": "65edcbb8-3a7b-b673-3129-85d33923d602",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "855f7115-50cf-a6f9-3557-51847fd8a0c6",
             "data_components": [
                 {
@@ -18,106 +18,266 @@
             ],
             "children": [
                 {
-                    "typeGuid": "4C1071CC-31CC-4DBE-A810-96F2C521A280",
-                    "instanceGuid": "9c06a08d-30b3-eab4-5840-e4478be0f018",
+                    "typeGuid": "4c1071cc-31cc-4dbe-a810-96f2c521a280",
+                    "instanceGuid": "fc9477db-2506-488f-9e7e-780da9888c01",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plane Collider"
+                        },
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 0
+                        }
+                    ],
+                    "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
+                        "half_extent": [
+                            1,
+                            1
+                        ]
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "28ce3a62-70ff-e41e-32bd-052d467a647e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 Glow Blue"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "0b740bf8-dc7e-1e69-3e34-fcb9f5dee798",
+                        "material_instance": "069f8e8d-d4a2-5a0e-7efe-0bb43c38436d"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "073a30a2-03fc-88ae-1602-a864765c4bc4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 Main"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "135a7573-ce4a-c4df-503a-0a81ed67565f",
+                        "material_instance": "8abd130a-279a-544a-6f31-5f13894b9f2b"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "65783cef-aaa8-dbfa-3bc9-e96ebcb7220f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 White"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "f3656498-baeb-42ae-7346-90a4b3a7d12a",
+                        "material_instance": "06ffbde4-0cb0-d243-47a9-90ef8ad139be"
+                    }
+                },
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "32e0c912-3981-1c16-832c-fac46ca6affd",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 Secondary"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "fad43a38-6797-1590-db5b-bf7c8365c557",
+                        "material_instance": "659ae299-4360-7c17-1b56-56bc7a0e176c"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9a78df17-0269-dfae-92f0-1b66e0bcba97",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 Main Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "385a84f1-87df-2cb8-c3f0-fd6518cc2104",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Floor 02 Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "135a7573-ce4a-c4df-503a-0a81ed67565f",
+                                "material_instance": "8abd130a-279a-544a-6f31-5f13894b9f2b"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "135a7573-ce4a-c4df-503a-0a81ed67565f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5e03786b-cf6f-d448-0c97-e0b10b91fcaf",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "d8588ce4-33c6-19a8-3759-42838c352f86",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Floor 02 White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f3656498-baeb-42ae-7346-90a4b3a7d12a",
+                                "material_instance": "06ffbde4-0cb0-d243-47a9-90ef8ad139be"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f3656498-baeb-42ae-7346-90a4b3a7d12a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "895f9d24-e4dc-35cf-9381-c49c664415b3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Floor 02 Secondary Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "43d3f9c8-67bc-a15e-3bc9-38a48d3efe84",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Floor 02 Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fad43a38-6797-1590-db5b-bf7c8365c557",
+                                "material_instance": "659ae299-4360-7c17-1b56-56bc7a0e176c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "fad43a38-6797-1590-db5b-bf7c8365c557"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "defd2f36-cc42-119c-e7de-c0bb38e6ea4b",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Floor 02 Glow Blue Collider"
                         }
                     ],
-                    "4c1071cc-31cc-4dbe-a810-96f2c521a280": {
-                        "half_extent": [ 1, 1 ]
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b96b85fc-8f6f-9e43-d0df-7cc8b889b0f0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Floor 02 Glow Blue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0b740bf8-dc7e-1e69-3e34-fcb9f5dee798",
+                                "material_instance": "069f8e8d-d4a2-5a0e-7efe-0bb43c38436d"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0b740bf8-dc7e-1e69-3e34-fcb9f5dee798"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     }
-                },
-				{
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "28ce3a62-70ff-e41e-32bd-052d467a647e",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Floor 02 Glow Blue"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "0b740bf8-dc7e-1e69-3e34-fcb9f5dee798",
-						"material_instance": "069f8e8d-d4a2-5a0e-7efe-0bb43c38436d"
-					}
-				},
-                {
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "073a30a2-03fc-88ae-1602-a864765c4bc4",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Floor 02 Main"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "135a7573-ce4a-c4df-503a-0a81ed67565f",
-						"material_instance": "8abd130a-279a-544a-6f31-5f13894b9f2b"
-					}
-				},
-               {
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "65783cef-aaa8-dbfa-3bc9-e96ebcb7220f",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Floor 02 White"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "f3656498-baeb-42ae-7346-90a4b3a7d12a",
-						"material_instance": "06ffbde4-0cb0-d243-47a9-90ef8ad139be"
-					}
-				},
-                {
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "32e0c912-3981-1c16-832c-fac46ca6affd",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Floor 02 Secondary"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "fad43a38-6797-1590-db5b-bf7c8365c557",
-						"material_instance": "659ae299-4360-7c17-1b56-56bc7a0e176c"
-					}
-				}
+                }
             ]
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "cbc95ee8-abd4-5fea-cebe-fdd32ff8f3aa"
     },
-    "thumbnailGuid": "ea911be1-331c-dcf4-5c55-e3c475fb8121"
+    "thumbnailGuid": "ea911be1-331c-dcf4-5c55-e3c475fb8121",
+    "data_components": []
 }

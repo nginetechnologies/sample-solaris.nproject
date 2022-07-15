@@ -8,12 +8,16 @@
     "instanceGuid": "85d626fc-e893-a127-c0d9-26b9581d279f",
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "9ef04027-bb1c-ef81-710a-7cfdbb78f2aa",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wall Plain Half No Light Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "d2e23191-c1f2-ea81-1bc8-53a677d09298"
     },
-    "thumbnailGuid": "e94f2879-ba82-a410-dac2-fefd4cfb0e4e"
+    "thumbnailGuid": "e94f2879-ba82-a410-dac2-fefd4cfb0e4e",
+    "data_components": []
 }
