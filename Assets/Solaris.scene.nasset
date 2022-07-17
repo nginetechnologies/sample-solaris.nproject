@@ -5629,12 +5629,6 @@
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
             },
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 0,
-                "layer": 3,
-                "body_flags": 1,
-                "maximumAngularVelocity": 0.0
-            },
             "183d677a-b427-4b1d-a276-97b3e6681304": {
                 "mask": [
                     "d6a09c51-8ccf-416e-8154-66f9404d2a44"
@@ -5648,7 +5642,13 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Respawn Zone"
-                }
+                },
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 3,
+					"body_flags": 1
+				}
             ],
             "children": [
                 {

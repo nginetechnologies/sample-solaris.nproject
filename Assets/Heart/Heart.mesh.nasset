@@ -7,10 +7,6 @@
 		{
 			"typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
 			"instanceGuid": "{E9F845D7-8C1C-48FE-9A70-74DE51AAB1C0}",
-			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-				"type": 0,
-				"layer": 0
-			},
 			"data_components": [
 				{
 					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -29,17 +25,17 @@
 					"mask": [
 						"21243f2e-905b-40d8-8913-5282b89ac77c"
 					]
+				},
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 0
 				}
 			],
 			"children": [
 				{
 					"typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
 					"instanceGuid": "d7d1bcba-a94b-8897-2db1-99c7763b175e",
-					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-						"type": 0,
-						"layer": 3,
-						"body_flags": 1
-					},
 					"183d677a-b427-4b1d-a276-97b3e6681304": {
 						"mask": [
 							"d6a09c51-8ccf-416e-8154-66f9404d2a44"
@@ -49,6 +45,12 @@
 						{
 							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
 							"name": "Collectible"
+						},
+						{
+							"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+							"type": 0,
+							"layer": 3,
+							"body_flags": 1
 						}
 					],
 					"children": [
