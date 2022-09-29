@@ -14,7 +14,7 @@
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
                 "9ae0e145-86b4-4e47-afda-697bbd008922": {
-                    "fieldOfView": 120.0,
+                    "fieldOfView": 60.0,
                     "nearPlane": 0.1,
                     "farPlane": 128.0
                 }
