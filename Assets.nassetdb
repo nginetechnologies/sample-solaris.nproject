@@ -610,11 +610,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "505f921c-c1d9-4577-bb3d-3fc5de5082c8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Idle.anim.nasset"
-    },
     "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -736,6 +731,11 @@
     "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Robot/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
+    "5ef10529-012b-4f65-895f-e0e4c0fbce78": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Idle.anim.nasset"
     },
     "5faf27b1-9667-7dd3-d1fe-857dec1791d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
