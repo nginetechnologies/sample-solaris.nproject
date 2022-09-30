@@ -1,0 +1,17 @@
+{
+    "guid": "634f7c20-6c1e-43df-91f3-6c5344efa0ea",
+    "source": "../../../A_Leela_Jump_End.fbx",
+    "skeleton": "199bbabe-64bd-b5e9-962f-143d9e030f6c",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "812745f0-2f9d-f1c0-08cf-a9f0dbb5d9c6",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "199bbabe-64bd-b5e9-962f-143d9e030f6c"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "634f7c20-6c1e-43df-91f3-6c5344efa0ea"
+        }
+    ]
+}

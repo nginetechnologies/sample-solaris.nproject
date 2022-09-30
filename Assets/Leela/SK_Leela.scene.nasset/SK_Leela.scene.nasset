@@ -1,0 +1,31 @@
+{
+    "guid": "9bceeb58-a289-bf25-bf45-a4dd3293dd9f",
+    "source": "../SK_Leela.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "67e0f7f7-c9c5-451d-55fc-1ecf8da73556",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Leela"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a16ecfd4-abd5-1827-7c09-6132c2907c5d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Leela"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "03802d93-841a-6098-8bb9-3826ec757e46"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9bceeb58-a289-bf25-bf45-a4dd3293dd9f"
+    }
+}

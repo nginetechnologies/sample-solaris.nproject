@@ -1,0 +1,17 @@
+{
+    "guid": "442552ec-60b5-46ad-86a4-6bd9d0945e22",
+    "source": "../../../A_Leela_Run.fbx",
+    "skeleton": "199bbabe-64bd-b5e9-962f-143d9e030f6c",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "004f498c-3e74-e518-26c6-f400ba4d6e5e",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "199bbabe-64bd-b5e9-962f-143d9e030f6c"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "442552ec-60b5-46ad-86a4-6bd9d0945e22"
+        }
+    ]
+}
