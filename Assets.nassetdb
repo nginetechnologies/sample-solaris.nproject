@@ -188,7 +188,8 @@
     "1bcaf705-10e6-460a-9195-d0d6b60e6c1a": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "6ca4365f-41f4-cdb8-d270-71f14ec3600b"
+        "thumbnail": "6ca4365f-41f4-cdb8-d270-71f14ec3600b",
+        "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ]
     },
     "1c402b38-2b87-2734-f385-b73167919b37": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
