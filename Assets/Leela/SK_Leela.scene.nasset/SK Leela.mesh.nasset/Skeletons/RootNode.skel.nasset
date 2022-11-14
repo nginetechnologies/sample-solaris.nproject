@@ -1,92 +1,92 @@
 {
-    "guid": "199bbabe-64bd-b5e9-962f-143d9e030f6c",
+    "guid": "168dd918-458d-874d-bf82-79ae00ea4a15",
     "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-    "instanceGuid": "305d765c-3a9f-4f28-3294-3af3074527fe",
+    "instanceGuid": "1a41546c-7e7c-3d21-f20e-a5c781f7df20",
     "data_components": [],
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "199bbabe-64bd-b5e9-962f-143d9e030f6c"
+        "skeleton": "168dd918-458d-874d-bf82-79ae00ea4a15"
     },
     "joints": {
-        "0ec1e04a-eb1f-a2f1-9c7a-5499499e0e67": {
-            "name": "Neck",
-            "index": 6
-        },
-        "1b0e1aeb-b8f6-3825-795d-3c117f3b9ee4": {
-            "name": "Foot_L",
-            "index": 18
-        },
-        "3e8dfad1-71b0-59f3-0824-c8b7390c520f": {
-            "name": "UpperLeg_R",
-            "index": 12
-        },
-        "4b7ce0d8-3f68-5802-7d6a-20aeeb38a5a9": {
-            "name": "Torso",
-            "index": 4
-        },
-        "562c76b5-d6ef-09ce-bd50-8e9f1ee33883": {
-            "name": "MidLeg_R",
-            "index": 13
-        },
-        "7441dee0-6a13-f1f1-7114-68eeec1ad2ae": {
-            "name": "MidLeg_L",
-            "index": 9
-        },
-        "78326c1b-190f-9962-727e-ec73aaf8396b": {
-            "name": "PoleTarget_R",
-            "index": 17
-        },
-        "7c3017b8-8041-bef0-601e-166f28a8af2a": {
-            "name": "Body",
-            "index": 3
-        },
-        "82ebb359-e1c5-187a-30dd-bee7eace71c0": {
-            "name": "Foot_R",
-            "index": 19
-        },
-        "8b6f2fbd-26b5-cb42-64e5-f07bc2107443": {
-            "name": "Chest",
-            "index": 5
-        },
-        "9298f78d-f94d-df78-19a2-a84ecb0edf73": {
-            "name": "FootBack_L",
-            "index": 11
-        },
-        "a29ec427-0e5f-c077-b77b-382d70b3a2c8": {
-            "name": "LowerLeg_R",
-            "index": 14
-        },
-        "aa38a646-060a-9278-a9ba-f757c6f83ce0": {
-            "name": "LowerLeg_L",
-            "index": 10
-        },
-        "b7f50f2f-ab7a-78ed-60e8-0f40fbd917db": {
-            "name": "Root",
-            "index": 2
-        },
-        "bde5a8bf-e575-289e-75b1-853c4f38ab49": {
-            "name": "SK_Leela",
-            "index": 1
-        },
-        "d1ab2dae-5a49-3f48-d7f5-5ccf6ee77ce3": {
+        "028098b7-4733-7f4b-cf7d-cac9fcce2755": {
             "name": "PoleTarget_L",
             "index": 16
         },
-        "d45a1f93-6196-61c6-407e-0f7e90ce90b8": {
-            "name": "FootBack_R",
-            "index": 15
+        "06fb0008-234b-1661-da7e-fe138781d7a4": {
+            "name": "Body",
+            "index": 3
         },
-        "d4d2fd27-9aea-8078-cb02-eee0e70b1e5a": {
+        "0cc3eb6e-0761-a311-5650-bdfd51a77788": {
+            "name": "FootBack_L",
+            "index": 11
+        },
+        "1083dca4-7f73-1433-8d57-82393c65458c": {
+            "name": "Root",
+            "index": 2
+        },
+        "190aaafa-6d1d-f623-8da0-1924a0b30243": {
+            "name": "Neck",
+            "index": 6
+        },
+        "1c0256e1-4a42-6fa3-44bf-6a2af44dfba5": {
+            "name": "Foot_R",
+            "index": 19
+        },
+        "3a30836d-11b3-7b4c-0547-680955b04ad6": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "3ff6e027-0ac4-f608-7d33-aa27ea7ea089": {
             "name": "UpperLeg_L",
             "index": 8
         },
-        "ec704ec9-cf1d-45f0-84e6-68d0c8677fee": {
+        "4a0367c7-3f82-26e4-0c32-a19c702ccc44": {
+            "name": "Chest",
+            "index": 5
+        },
+        "716c0b33-92b7-470e-1ffb-1332759f5585": {
+            "name": "LowerLeg_L",
+            "index": 10
+        },
+        "72faee28-ca52-977a-541e-94045e42fc0f": {
+            "name": "MidLeg_R",
+            "index": 13
+        },
+        "831be0a1-9269-479a-971c-c7d18cb4f66f": {
+            "name": "PoleTarget_R",
+            "index": 17
+        },
+        "833db95b-5342-577b-145b-edab7608377f": {
+            "name": "LowerLeg_R",
+            "index": 14
+        },
+        "8cf952c9-7c97-848f-6d39-ac10ed5e8d88": {
+            "name": "SK_Leela",
+            "index": 1
+        },
+        "a5cf30b3-e3ff-4747-4d0b-726488b6776f": {
+            "name": "FootBack_R",
+            "index": 15
+        },
+        "b27cbfd9-04c1-2af6-83d7-6c2b79cecb45": {
+            "name": "Foot_L",
+            "index": 18
+        },
+        "cafa0392-145e-28ca-0953-4ded3d97aa05": {
+            "name": "MidLeg_L",
+            "index": 9
+        },
+        "f23e8a6e-d367-1ffa-bce5-b66177bd5eea": {
+            "name": "Torso",
+            "index": 4
+        },
+        "fadbd141-ab93-6b08-f69f-bce4a99ab575": {
             "name": "Head",
             "index": 7
         },
-        "eedd73bb-814a-50e2-54d9-716a415bd1de": {
-            "name": "RootNode",
-            "index": 0
+        "fdcdac67-9475-252f-d7df-131158836700": {
+            "name": "UpperLeg_R",
+            "index": 12
         }
     }
 }
