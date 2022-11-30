@@ -5,7 +5,7 @@
     "push_constants": [
         {
             "type": 0,
-            "color": "#05"
+            "color": "#111111"
         },
         {
             "type": 1,
