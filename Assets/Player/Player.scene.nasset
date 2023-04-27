@@ -1,7 +1,6 @@
 {
-    "guid": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c",
+    "guid": "35fc453d-a1fd-4579-b837-c34a304809c8",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
     },
@@ -140,10 +139,6 @@
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                     "name": "Leela character scene"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
                                 }
                             ]
                         }
@@ -181,7 +176,7 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
+        "scene": "35fc453d-a1fd-4579-b837-c34a304809c8"
     },
     "thumbnailGuid": "e95160b5-9f01-a360-4319-88759e54333f"
 }
