@@ -3,8 +3,7 @@
     "source": "Solaris_Enviro.exr",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        1024.0,
-        1024.0
+        1024
     ],
     "preset": 9,
     "intensity_factor": 20,

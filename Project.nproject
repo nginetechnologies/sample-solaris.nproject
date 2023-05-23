@@ -1,7 +1,7 @@
 {
     "name": "Solaris",
-    "guid": "1bcaf705-10e6-460a-9195-d0d6b60e6c1a",
-    "database_guid": "3d69471a-6946-4657-a931-52658ad75220",
+    "guid": "4d54e68f-e770-4bd1-9ffb-178fe3406b66",
+    "database_guid": "bc31857b-e512-1bb8-29d5-8dd3450cf7c3",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "6ca4365f-41f4-cdb8-d270-71f14ec3600b",
-    "default_scene": "5cebca87-fc46-4464-9686-1228388681d9",
+    "default_scene": "41111747-ac74-41a3-a91b-f6ec8a764c7c",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
