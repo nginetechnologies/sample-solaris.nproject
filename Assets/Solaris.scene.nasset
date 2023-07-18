@@ -8,9 +8,6 @@
     },
     "data_components": [
         {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -22,14 +19,14 @@
             },
             "transform": {
                 "position": [
-                    -13.691,
-                    -37.7311,
-                    15.2395
+                    -11.4675,
+                    -35.749,
+                    13.5062
                 ],
                 "rotation": [
-                    -20.5663,
+                    -34.7316,
                     -0.0,
-                    -39.301
+                    -43.1661
                 ]
             },
             "grid_settings": {
@@ -49,6 +46,9 @@
                     }
                 }
             }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
@@ -374,7 +374,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
+                    -0.0,
                     89.999
                 ]
             },
@@ -835,7 +835,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    0.0,
+                    -0.0,
                     89.999
                 ]
             },
@@ -1120,6 +1120,9 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ]
         },
@@ -1307,12 +1310,13 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
-                    "velocity": 1.0
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "4fd849ef-a485-0117-b103-0acd79b57108"
+                },
+                {
+                    "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
+                    "velocity": 1.0,
+                    "mode": 2
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -1325,16 +1329,16 @@
                     "instanceGuid": "71dd1f20-215c-a978-801c-57791d5674fc",
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "05e5f2ed-fac1-4df7-2dad-405cc8b4081c"
+                        },
+                        {
                             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                             "type": 1,
                             "layer": 1,
                             "maximumAngularVelocity": 2699.9997,
                             "overriddenMass": 0.0,
                             "gravityScale": 1.0
-                        },
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "05e5f2ed-fac1-4df7-2dad-405cc8b4081c"
                         }
                     ]
                 }
