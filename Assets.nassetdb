@@ -2,7 +2,10 @@
     "41111747-ac74-41a3-a91b-f6ec8a764c7c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Solaris.scene.nasset"
+        "path": "Assets/Solaris.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-11.4675,-35.749,13.5062],\"rotation\":[-34.7316,-0.0,-43.1661]}"
+        }
     },
     "4d54e68f-e770-4bd1-9ffb-178fe3406b66": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
