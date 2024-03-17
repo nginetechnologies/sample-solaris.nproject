@@ -1,7 +1,7 @@
 {
     "name": "Solaris",
     "guid": "4d54e68f-e770-4bd1-9ffb-178fe3406b66",
-    "database_guid": "bc31857b-e512-1bb8-29d5-8dd3450cf7c3",
+    "database_guid": "02f092a8-f7d2-6238-552c-c28f98220f98",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
