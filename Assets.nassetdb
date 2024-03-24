@@ -1,620 +1,16 @@
 {
-    "0143142c-7952-cad7-680f-6db5b261dea8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Orange Glow.mesh.nasset/Column Orange Glow Glow Orange.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "3cf7f741-2913-63ce-1fd5-af458e112550",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "01cea3e7-ae88-de42-8055-264affc56867": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Staircase White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "02f092a8-f7d2-6238-552c-c28f98220f98": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "04846b6a-fa4c-454d-8b14-02d07c5b4237": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half No Light.mesh.nasset/Wall Plain Half No Light Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "04af2f77-3abc-3fa1-e919-662958980a43": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "04e29632-1198-5c0f-4377-4dea65a80f43": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half.mesh.nasset/Wall Plain Half.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "0711ec34-23ae-44da-1005-e3396ae55146": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "0781242c-eb76-0822-cc63-b555507d60bc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "089bfbc9-a829-c687-dd91-36fac862096a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall Frame.mesh.nasset/Door Double Wall Frame Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "09f5d829-1c21-4b7f-a064-f12d39570213": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "0a0529e2-b2c9-feea-a7d9-4dedd913e025": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Shelf Large White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "0bab7372-6e1e-8f8d-e759-c2daab409906": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "12ecee77-dd90-3a85-d243-e4da74fc47f0": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "1352100e-9c02-3aeb-97a2-06b291f8aebe": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "13a5ef04-5f78-2514-8414-b6786ac02a70": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "14cbb942-9c64-5531-37de-2acc3436d3bf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "14fb33c8-477d-cfb4-92fc-90d9ab42d887": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "15c7760c-223f-1568-4afb-5d75286d9a2b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "1615e13b-6617-6bb3-5dac-655865af261f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "16a43ec5-0076-6f83-129f-f9c267f61d13": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 1.mesh.nasset/Floor 1.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "1998eb8c-c8e6-5daa-1070-41353632979c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "19ed8c40-694d-9805-ad61-c87b1d018f1d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Paneling.mesh.nasset/Wall Paneling Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "1a4dae29-5255-23ef-40ae-a5c2f53df6c9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "1b08d4fe-8914-efeb-c4d3-f4680dae3b7a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "2173eb0a-9707-7852-cebb-f1aa173c43bb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "22625c3e-b558-5d5a-704f-f91b7f5a9667": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "23cf5b6b-a488-2d8b-d500-1907f35cfa29": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "23f51936-02d3-24ec-75a3-b96ce271fd8f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall Frame.mesh.nasset/Door Single Wall Frame White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "248efe5c-62e9-5adf-ec37-db13b38f01fa": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Glass.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "24f1fe76-983b-ab24-c175-23826d1c6ce6": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2 Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "25a48b5b-570c-a2df-d8be-f20cfd3848cf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "261dba95-fc3a-c12b-387d-97d06ca122bf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 2.mesh.nasset/Floor 2 Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "287747bb-d04b-5766-72a7-25b13e454a21": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Split Trim.mesh.nasset/Column Split Trim.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "29cda1f7-1dd5-d021-e056-90289372e5bc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half.mesh.nasset/Wall Plain Half Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "2cc72809-3e0a-6005-2a20-673ae7aea1fb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "31835a82-5563-e7a5-78d2-f12cd4387184": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "34a9f9d6-a818-4683-412b-f67957b1b4ef": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Small.mesh.nasset/Column Small.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "352fc352-a63c-bfde-f06f-fa4fe644376f": {
+    "4733571e-8b3c-47aa-82c3-70319321b2d4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Objects/SC_Solaris_Lights.scene.nasset/SC_Solaris_Lights.scene.nasset"
-    },
-    "367d847a-6e4f-c43a-4b20-0bd7d6f173fe": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "374888ef-f03f-217c-8f9a-5c375845ff3f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "374e35f4-f5c7-e805-d0be-22c0a6bef13a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall Frame.mesh.nasset/Door Single Wall Frame Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "379ab506-4fd0-df6c-e106-bdddc4433ec3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3a8d0fb4-4103-a42c-5897-59a26fd99229": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "3a97f959-a406-5342-2559-cfeb1b382c68": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Small.mesh.nasset/Shelf Small Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3c1c55b0-267a-269b-58b8-8a28bd74e5fd": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3cf7f741-2913-63ce-1fd5-af458e112550": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Glow Orange.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "3e7640b5-e759-7be9-fa52-ee024206f389": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3e887800-7296-05e8-a886-005e31dbe0cb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3eb2498d-0cb5-f1d2-f8a1-dfd01d8b4f37": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Shelf Large.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4098180a-d3fa-884e-752e-71046220434b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2 Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "4206cdf4-58e6-a0ea-c983-e900d8e0343a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Split Trim.mesh.nasset/Column Split Trim White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "43ca438f-0508-4d90-b042-629efadafaec": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "443673de-f1c8-9214-9b2a-883b8758179a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Secondary.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "44ddc3a6-3132-f25e-5aa1-4dded89dcec8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 2.mesh.nasset/Floor 2.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "47809041-a9a5-d5ff-185a-4aa195158f9c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "484ab0fa-b395-b801-1cd2-6de53c5724da": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Orange Glow.mesh.nasset/Column Orange Glow.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4b74bd03-eb8e-d02b-449e-d3e32b807554": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2 Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "4c78c323-c9ff-faed-0fe6-348bb25791bf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall Frame.mesh.nasset/Door Single Wall Frame.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4cfdf3ee-2a28-bf09-da71-aa51d8aff7f0": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Solaris.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[19.848268508911134,-22.087072372436525,12.785843849182129],\"rotation\":[-47.575714111328128,-5.771046289737569e-7,48.05885696411133]}"
+        }
     },
     "4d54e68f-e770-4bd1-9ffb-178fe3406b66": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -625,1403 +21,222 @@
             "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
         ]
     },
-    "51d73011-5c92-b5a6-25e3-617333defaef": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2 White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "5364a133-9574-8075-848b-df78b30ef5d4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Small.mesh.nasset/Shelf Small.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "57e1c22d-f229-5124-a315-b1ce3bcff0e2": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "59f22a0c-cce8-8508-6a94-de73d60c89c9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "5ccb56bd-b27a-195b-3ee7-c84dc2c89b6b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "653462fd-9f0a-ca13-4070-9baf5f463070": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "663e26e2-67ed-9d9c-db1b-120956ae3c1c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 1.mesh.nasset/Wall Half 1 Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "671059b1-af33-81df-ffe0-1af97cedca26": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Bot Trim.mesh.nasset/Column Bot Trim Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "683abda6-7ddb-b479-f131-111d9c440f35": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Shelf Large Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "68823e02-aedc-cb77-8849-022029ccfa42": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall Frame.mesh.nasset/Door Double Wall Frame Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "69da0a1f-6299-c071-0a6a-8b322ac92806": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Bot Trim.mesh.nasset/Column Bot Trim.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6a0ae3d6-978b-9ec9-77d2-a3a7d3d5273a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Paneling.mesh.nasset/Wall Paneling White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6a26a595-7674-a018-f1b5-da364b2a03bf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6ae187cc-f54b-08c8-00d9-423cd3b7496d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall Glass.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "248efe5c-62e9-5adf-ec37-db13b38f01fa",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6ca4365f-41f4-cdb8-d270-71f14ec3600b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Solaris_Thumb.tex.nasset"
-    },
-    "6e0aa782-6d0d-9f39-2a90-5939b6830b55": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6eed00f0-8056-7466-cf2a-b27dc6d3e8c4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Small.mesh.nasset/Column Small Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6f796206-9589-112a-1b38-d317069f1ace": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "6fdfe6f3-d799-4d58-245d-8fcb6b7735af": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half.mesh.nasset/Wall Plain Half Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "717de4d6-49c7-c85c-f427-745537484233": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "717e00d7-3266-286e-dff9-7586334a2953": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Shelf Large Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "729bb54a-80d5-2a67-ba04-35939f6d252a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 2.mesh.nasset/Floor 2 Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "751208ea-50c6-0a29-912a-02f7ed8f478b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Paneling.mesh.nasset/Wall Paneling Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "78f5a7df-d52d-c1b1-a79b-e66cead23a82": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7a0d7b5a-53be-73d2-a189-f4290cb33780": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "7a2b71d9-bcac-217d-0b10-4c08d1334ad1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "7a593ae2-75a0-695b-93ec-1de942238fa3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 2.mesh.nasset/Floor 2 Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "7b295fab-126b-16c1-25c2-95e2203f49a9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7cbe9f71-236a-30cb-0bf9-ef53adb2dbc9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 1.mesh.nasset/Wall Half 1 White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "7fee708b-0861-a7ef-9253-fefaa6ac1aaf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2 Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "8075366f-48b1-9431-2192-94c104964f8e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall 1 Large.mesh.nasset/Door Single Wall 1 Large Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "815d2bd0-4b17-f9e0-8951-df3d8fea5233": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "81dcfe85-1829-2b37-d2de-ea816fb6a57b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "8401e0fa-c9df-5faf-53b7-758bdb46939f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "84224aa0-2fb0-d742-1ffa-fe3ad9207ee9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Split Trim.mesh.nasset/Column Split Trim Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "86141bd9-bfa6-b1a8-debe-5b4b2618d315": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 2.mesh.nasset/Wall Half 2.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "89d2b5db-8ee4-0089-208f-fe60eaf9ec5f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Staircase Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "8e90b64a-db73-0ac5-e21b-98519e7bc51f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "8ebbe98c-c20e-045c-9ca6-f587e00e54d9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "8fbfb84a-b2ae-f01a-9d47-e0be3e568c81": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "90056a13-7526-b9ae-c37c-44c6a87bf72a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "901056ad-5a0e-dfd9-3b6c-26956d79b23c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9037a11b-83c6-b791-9513-bf00ca50fce6": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "90bc0cc0-5a9e-9bb7-acfa-910543d5e428": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall 1 Large.mesh.nasset/Door Single Wall 1 Large Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "96c1a1db-e7d5-28a9-b6a1-8d83ea25b3c3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "99bb72ed-53f2-9113-1387-c23830ae99e2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Staircase.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "9b046620-3248-5684-2ccc-35453e2e25b4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall Frame.mesh.nasset/Door Double Wall Frame White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9effe549-b35f-6cb7-5df9-f36a3e5d7695": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall Glass.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "248efe5c-62e9-5adf-ec37-db13b38f01fa",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9f7c9ec4-6df1-00a9-c4d9-dc24deb1f04a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9f8ad64c-0c46-4667-f0d7-7578b846ac82": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9fb910aa-5dc9-0a34-20dd-8b584570ba36": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a12dc02e-578a-7c8a-e9e8-73089f0dabd1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Staircase Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a1c78be3-9a03-6f08-f00a-5bffbec5c573": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a1dafacd-5fed-14e2-0bfb-e5c09891e8d9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Paneling.mesh.nasset/Wall Paneling Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a289f812-3c19-f080-b376-fd41073bc072": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a3d12aa8-7566-390b-ecdd-d4b685bce06a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Small.mesh.nasset/Column Small White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a70a8a31-db4d-1cad-2b4b-42fa542264fc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "a72a9f33-8ae2-ba22-81ec-9b6e7a37f1dd": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a7b2126d-bb0f-4c5f-e426-5f494d71d67c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half No Light.mesh.nasset/Wall Plain Half No Light White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "a9817506-c8df-d8e3-1312-b6f580561e91": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Main.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "a985f0ba-d72a-5259-d5b1-cfe2718f5d2e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 2.mesh.nasset/Floor 2 White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "acac4f2c-a603-685a-c036-ed2585c3a498": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "acff19ea-04fe-aff1-ee1d-11418c740f5c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Small.mesh.nasset/Shelf Small White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "ae0bc29a-d707-619b-f634-62e0771ed5fd": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b20f6920-cea6-d405-4b83-44b578fa2cab": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b219f40f-44c7-b733-935c-6950bd5e7bff": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 1.mesh.nasset/Floor 1 White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b4b70a56-8b08-f125-57c2-fe76691e84f3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b5c4df01-30e5-6ce2-140a-82aa89d28550": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b71c4e2f-d273-0353-4e77-bc37e78784b8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b86f79a3-2662-33c9-33dd-46e369b8a7b1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall Frame.mesh.nasset/Door Double Wall Frame Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b88ebcb3-503f-13e6-e126-8dbb0083689c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b8dab1b9-6180-094e-07fd-c81da94be2ec": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "b9d6349f-ca4f-f505-18fb-59852412b22a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "ba1a99c6-951d-1fb4-611d-d1b56b9d2e84": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "ba3ebcd2-ea8d-ccf6-e11c-65e6aa993836": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Orange Glow.mesh.nasset/Column Orange Glow White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bb543fa6-7961-9275-2d7e-196bd54a23ea": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bb76b3fc-8943-7ae6-1b3b-668330423a08": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bb823bde-3722-3ccd-a4f6-86b7d49394cc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bda70ddc-0df8-2802-8708-b83f740d7864": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall 3 Glow.mesh.nasset/Wall 3 Glow Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bed5d01a-b3f4-13a7-9d5e-762454cf94ad": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bfd78e8f-decb-a570-50bd-1a6a171aa157": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall Frame.mesh.nasset/Door Single Wall Frame Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "bffa80f3-c9e6-64df-c1ac-b75551ce542e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c06a0ada-f725-477d-6d46-f40c1fca5306": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half.mesh.nasset/Wall Plain Half White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c0af43cb-c806-2265-1c0b-00646c46fa36": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall Glass.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "248efe5c-62e9-5adf-ec37-db13b38f01fa",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c219c045-6abb-d27c-14b4-775a6272ecc5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c581a2be-7806-2f40-35fd-5be46c16ecb4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall Frame.mesh.nasset/Door Single Wall Frame Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c5ad9525-6b44-7524-9001-6dbf58ba3f8d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c88367fa-bb18-ef4a-3081-f48a7ba88cea": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "cbcb084f-3698-b64b-e789-eaa05b4b968a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Three Windows Rounded Wall.mesh.nasset/Three Windows Rounded Wall Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "cfe97055-abb9-ff08-7a98-2801a2671478": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Small.mesh.nasset/Column Small Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d082b2c4-aeed-a828-9550-a5af24443cb9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 1.mesh.nasset/Wall Half 1 Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d0e03e7a-68b9-54dc-3c29-a43b0ae964fa": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d2515ca4-6c63-a083-f39f-b860cd9d06c3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d65871c7-68e7-2215-b9de-f078eaf46599": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d828ae61-a281-5f93-1001-7bcbf4b40cc9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Shelf Small.mesh.nasset/Shelf Small Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d839be01-b9df-957c-316a-3c11cdedec42": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod Glass.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "248efe5c-62e9-5adf-ec37-db13b38f01fa",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "d9f44803-4b4f-a0ff-0835-c3bb7b1985a7": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall Frame.mesh.nasset/Door Double Wall Frame.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "db089d45-f8be-d20e-91d8-e4d2644eed47": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Piping.mesh.nasset/Wall Piping Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "db24f2aa-9e3e-9280-d9b5-132f051a7f73": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor 1.mesh.nasset/Floor 1 Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "dbe288f3-f2dc-c58c-f1e7-b33b97111801": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/White.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "dd5ed2c7-a05f-7cf6-6eae-53eb661c66ab": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "dd7ac12b-f977-1764-e31b-7ed2bddfeda8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Windows Triple Wall.mesh.nasset/Windows Triple Wall White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e0d2a37a-b8d0-cc0a-2759-52317b4bb2ca": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall 1 Large.mesh.nasset/Door Single Wall 1 Large.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e1bf8f55-6e37-4d28-ddd5-579cc3a9cab5": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall 1 Large.mesh.nasset/Door Single Wall 1 Large Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e3707763-18b2-fc2a-a887-02cb183dcb6b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e4fc138a-1f3e-79e7-84b2-9689c5dbdecb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Paneling.mesh.nasset/Wall Paneling.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e869a525-e8e6-c218-ad92-2c2dba80a7d2": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Bot Trim.mesh.nasset/Column Bot Trim White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e8b42e8c-e37c-40bf-b7b4-1f5195d72690": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "ea2de373-b936-a29d-2b8e-89c2bc2f5542": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Column Orange Glow.mesh.nasset/Column Orange Glow Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a9817506-c8df-d8e3-1312-b6f580561e91",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "eb5fe566-23b8-e733-2db1-e039a6de5a3f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Solaris_EnviroSpecular.tex.nasset"
-    },
-    "ebde22d4-f66f-8f2d-f8f6-beeca42d9178": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/SC_Solaris.scene.nasset"
-    },
-    "ed95386f-9cc5-9ba7-2567-d1617705f944": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Vert Neon Pipe.mesh.nasset/Wall Vert Neon Pipe Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Glow Blue.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "ee6098ec-599f-4d20-dbb9-b51c786afa1a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f03f6397-ca52-8992-b76e-7d104f154b04": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "443673de-f1c8-9214-9b2a-883b8758179a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f19d5b9e-2716-8c47-4bce-b1861fbdd454": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner.mesh.nasset/Floor Corner Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f2f3955f-f905-d4ee-7f3d-e5c730dfc8fd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Long Window Wall.mesh.nasset/Long Window Wall.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "f58568d1-ff6c-0561-0704-5f12f1a32760": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Large.mesh.nasset/Crate Large Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f5cb967d-cc99-9ec9-296a-839dec0e993b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Objects/Material Instances/Black.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "f627ec58-a64c-a249-aab0-9990cc2c2dfa": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f6442412-9f18-5219-3f0c-6a18d3890cdb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Corner Inner.mesh.nasset/Floor Corner Inner Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f5cb967d-cc99-9ec9-296a-839dec0e993b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f7a31ffe-034e-6646-62fe-6bdad06fbfbe": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Solaris_EnviroDiffuse.tex.nasset"
-    },
-    "f878064a-8e8e-8f1c-d794-481fff02b6bf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Plain Half No Light.mesh.nasset/Wall Plain Half No Light.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "f9110ff1-ebbd-b03c-8538-0486be87fc64": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Floor Side.mesh.nasset/Floor Side Glow Blue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "fbbf965d-8f31-e03d-eca1-401c72b65225": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "fd2a1408-90dc-d273-cb35-336ce213b393": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fd857fe9-7ab1-4d4c-4da1-0ad2881e5112": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Solaris_Enviro.tex.nasset"
-    },
-    "fdb0250f-4f23-da78-4dd7-544583d52439": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Wall Half 1.mesh.nasset/Wall Half 1.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fe3e085e-74c9-aa27-23b2-b39fd795b91a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Crate Small.mesh.nasset/Crate Small.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fe8c976f-7a53-066b-2642-5430b26ee569": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Single Wall 1 Large.mesh.nasset/Door Single Wall 1 Large White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "ffb7cb17-07eb-6e84-a87d-1b670bd6219d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Objects/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "guid": "02f092a8-f7d2-6238-552c-c28f98220f98"
+    "guid": "02f092a8-f7d2-6238-552c-c28f98220f98",
+    "imported_assets": [
+        "00a25ff7-f322-be3c-eba7-40138e52c875",
+        "0143142c-7952-cad7-680f-6db5b261dea8",
+        "01cea3e7-ae88-de42-8055-264affc56867",
+        "04846b6a-fa4c-454d-8b14-02d07c5b4237",
+        "04af2f77-3abc-3fa1-e919-662958980a43",
+        "04e29632-1198-5c0f-4377-4dea65a80f43",
+        "0711ec34-23ae-44da-1005-e3396ae55146",
+        "0781242c-eb76-0822-cc63-b555507d60bc",
+        "089bfbc9-a829-c687-dd91-36fac862096a",
+        "09f5d829-1c21-4b7f-a064-f12d39570213",
+        "0a0529e2-b2c9-feea-a7d9-4dedd913e025",
+        "0bab7372-6e1e-8f8d-e759-c2daab409906",
+        "0cfe740b-f015-3f29-8bdd-ae578ce2aa56",
+        "12ecee77-dd90-3a85-d243-e4da74fc47f0",
+        "1352100e-9c02-3aeb-97a2-06b291f8aebe",
+        "13a5ef04-5f78-2514-8414-b6786ac02a70",
+        "14cbb942-9c64-5531-37de-2acc3436d3bf",
+        "14fb33c8-477d-cfb4-92fc-90d9ab42d887",
+        "15c7760c-223f-1568-4afb-5d75286d9a2b",
+        "1615e13b-6617-6bb3-5dac-655865af261f",
+        "168afce9-5187-0e51-633f-16d8963b418d",
+        "16a43ec5-0076-6f83-129f-f9c267f61d13",
+        "1998eb8c-c8e6-5daa-1070-41353632979c",
+        "19ed8c40-694d-9805-ad61-c87b1d018f1d",
+        "1a4dae29-5255-23ef-40ae-a5c2f53df6c9",
+        "1b08d4fe-8914-efeb-c4d3-f4680dae3b7a",
+        "202013cd-6eed-43d8-8ca4-555b393fb9e9",
+        "2173eb0a-9707-7852-cebb-f1aa173c43bb",
+        "22625c3e-b558-5d5a-704f-f91b7f5a9667",
+        "23cf5b6b-a488-2d8b-d500-1907f35cfa29",
+        "23f51936-02d3-24ec-75a3-b96ce271fd8f",
+        "248efe5c-62e9-5adf-ec37-db13b38f01fa",
+        "24f1fe76-983b-ab24-c175-23826d1c6ce6",
+        "25a48b5b-570c-a2df-d8be-f20cfd3848cf",
+        "25e18331-6a1b-4c35-a314-0968f8f31f9b",
+        "261dba95-fc3a-c12b-387d-97d06ca122bf",
+        "287747bb-d04b-5766-72a7-25b13e454a21",
+        "29cda1f7-1dd5-d021-e056-90289372e5bc",
+        "2acb44fd-8f14-e949-f08d-c398aef25d00",
+        "2cc72809-3e0a-6005-2a20-673ae7aea1fb",
+        "31835a82-5563-e7a5-78d2-f12cd4387184",
+        "34a9f9d6-a818-4683-412b-f67957b1b4ef",
+        "352fc352-a63c-bfde-f06f-fa4fe644376f",
+        "367d847a-6e4f-c43a-4b20-0bd7d6f173fe",
+        "374888ef-f03f-217c-8f9a-5c375845ff3f",
+        "374e35f4-f5c7-e805-d0be-22c0a6bef13a",
+        "379ab506-4fd0-df6c-e106-bdddc4433ec3",
+        "3a8d0fb4-4103-a42c-5897-59a26fd99229",
+        "3a97f959-a406-5342-2559-cfeb1b382c68",
+        "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b",
+        "3c1c55b0-267a-269b-58b8-8a28bd74e5fd",
+        "3cf7f741-2913-63ce-1fd5-af458e112550",
+        "3e7640b5-e759-7be9-fa52-ee024206f389",
+        "3e887800-7296-05e8-a886-005e31dbe0cb",
+        "3eb2498d-0cb5-f1d2-f8a1-dfd01d8b4f37",
+        "4098180a-d3fa-884e-752e-71046220434b",
+        "40ebf4d2-b44a-47a1-8638-ef100a595d82",
+        "4206cdf4-58e6-a0ea-c983-e900d8e0343a",
+        "4298c884-2217-4576-bf0b-2774e8a6a515",
+        "43ca438f-0508-4d90-b042-629efadafaec",
+        "443673de-f1c8-9214-9b2a-883b8758179a",
+        "44ddc3a6-3132-f25e-5aa1-4dded89dcec8",
+        "47809041-a9a5-d5ff-185a-4aa195158f9c",
+        "484ab0fa-b395-b801-1cd2-6de53c5724da",
+        "4b74bd03-eb8e-d02b-449e-d3e32b807554",
+        "4c78c323-c9ff-faed-0fe6-348bb25791bf",
+        "4cfdf3ee-2a28-bf09-da71-aa51d8aff7f0",
+        "51d73011-5c92-b5a6-25e3-617333defaef",
+        "5364a133-9574-8075-848b-df78b30ef5d4",
+        "55947494-2f83-ef2e-158a-198d8878499e",
+        "57e1c22d-f229-5124-a315-b1ce3bcff0e2",
+        "59f22a0c-cce8-8508-6a94-de73d60c89c9",
+        "5ccb56bd-b27a-195b-3ee7-c84dc2c89b6b",
+        "620be590-c551-a7a1-d456-65258ecbc37c",
+        "653462fd-9f0a-ca13-4070-9baf5f463070",
+        "663e26e2-67ed-9d9c-db1b-120956ae3c1c",
+        "671059b1-af33-81df-ffe0-1af97cedca26",
+        "683abda6-7ddb-b479-f131-111d9c440f35",
+        "68823e02-aedc-cb77-8849-022029ccfa42",
+        "69da0a1f-6299-c071-0a6a-8b322ac92806",
+        "6a0ae3d6-978b-9ec9-77d2-a3a7d3d5273a",
+        "6a26a595-7674-a018-f1b5-da364b2a03bf",
+        "6ae187cc-f54b-08c8-00d9-423cd3b7496d",
+        "6ca4365f-41f4-cdb8-d270-71f14ec3600b",
+        "6dabc083-028e-5745-bee6-54d16ec09264",
+        "6e0aa782-6d0d-9f39-2a90-5939b6830b55",
+        "6eed00f0-8056-7466-cf2a-b27dc6d3e8c4",
+        "6f796206-9589-112a-1b38-d317069f1ace",
+        "6fdfe6f3-d799-4d58-245d-8fcb6b7735af",
+        "717de4d6-49c7-c85c-f427-745537484233",
+        "717e00d7-3266-286e-dff9-7586334a2953",
+        "729bb54a-80d5-2a67-ba04-35939f6d252a",
+        "751208ea-50c6-0a29-912a-02f7ed8f478b",
+        "78f5a7df-d52d-c1b1-a79b-e66cead23a82",
+        "7a0d7b5a-53be-73d2-a189-f4290cb33780",
+        "7a2b71d9-bcac-217d-0b10-4c08d1334ad1",
+        "7a593ae2-75a0-695b-93ec-1de942238fa3",
+        "7b295fab-126b-16c1-25c2-95e2203f49a9",
+        "7cbe9f71-236a-30cb-0bf9-ef53adb2dbc9",
+        "7fee708b-0861-a7ef-9253-fefaa6ac1aaf",
+        "8075366f-48b1-9431-2192-94c104964f8e",
+        "815d2bd0-4b17-f9e0-8951-df3d8fea5233",
+        "81dcfe85-1829-2b37-d2de-ea816fb6a57b",
+        "8401e0fa-c9df-5faf-53b7-758bdb46939f",
+        "84224aa0-2fb0-d742-1ffa-fe3ad9207ee9",
+        "84c4fc94-8c05-4167-a7ff-93e031796da9",
+        "86141bd9-bfa6-b1a8-debe-5b4b2618d315",
+        "888b2656-142b-6510-0aa6-48d5e4f0adf6",
+        "8931f32d-7522-7ffa-0a21-c19232bfc9da",
+        "89d2b5db-8ee4-0089-208f-fe60eaf9ec5f",
+        "8e90b64a-db73-0ac5-e21b-98519e7bc51f",
+        "8ebbe98c-c20e-045c-9ca6-f587e00e54d9",
+        "8fbfb84a-b2ae-f01a-9d47-e0be3e568c81",
+        "90056a13-7526-b9ae-c37c-44c6a87bf72a",
+        "901056ad-5a0e-dfd9-3b6c-26956d79b23c",
+        "9037a11b-83c6-b791-9513-bf00ca50fce6",
+        "90bc0cc0-5a9e-9bb7-acfa-910543d5e428",
+        "96c1a1db-e7d5-28a9-b6a1-8d83ea25b3c3",
+        "99029d92-f497-4c98-be8b-85a5a9bba823",
+        "99bb72ed-53f2-9113-1387-c23830ae99e2",
+        "9b046620-3248-5684-2ccc-35453e2e25b4",
+        "9effe549-b35f-6cb7-5df9-f36a3e5d7695",
+        "9f565e28-1aa8-5df3-6a71-f717c9f13735",
+        "9f7c9ec4-6df1-00a9-c4d9-dc24deb1f04a",
+        "9f8ad64c-0c46-4667-f0d7-7578b846ac82",
+        "9fb910aa-5dc9-0a34-20dd-8b584570ba36",
+        "a12dc02e-578a-7c8a-e9e8-73089f0dabd1",
+        "a1c78be3-9a03-6f08-f00a-5bffbec5c573",
+        "a1dafacd-5fed-14e2-0bfb-e5c09891e8d9",
+        "a289f812-3c19-f080-b376-fd41073bc072",
+        "a3d12aa8-7566-390b-ecdd-d4b685bce06a",
+        "a70a8a31-db4d-1cad-2b4b-42fa542264fc",
+        "a72a9f33-8ae2-ba22-81ec-9b6e7a37f1dd",
+        "a7b2126d-bb0f-4c5f-e426-5f494d71d67c",
+        "a9817506-c8df-d8e3-1312-b6f580561e91",
+        "a985f0ba-d72a-5259-d5b1-cfe2718f5d2e",
+        "acac4f2c-a603-685a-c036-ed2585c3a498",
+        "acff19ea-04fe-aff1-ee1d-11418c740f5c",
+        "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
+        "ae0bc29a-d707-619b-f634-62e0771ed5fd",
+        "b20f6920-cea6-d405-4b83-44b578fa2cab",
+        "b219f40f-44c7-b733-935c-6950bd5e7bff",
+        "b4b70a56-8b08-f125-57c2-fe76691e84f3",
+        "b5c4df01-30e5-6ce2-140a-82aa89d28550",
+        "b71c4e2f-d273-0353-4e77-bc37e78784b8",
+        "b86f79a3-2662-33c9-33dd-46e369b8a7b1",
+        "b88ebcb3-503f-13e6-e126-8dbb0083689c",
+        "b8dab1b9-6180-094e-07fd-c81da94be2ec",
+        "b9d6349f-ca4f-f505-18fb-59852412b22a",
+        "ba1a99c6-951d-1fb4-611d-d1b56b9d2e84",
+        "ba3ebcd2-ea8d-ccf6-e11c-65e6aa993836",
+        "baedeae8-b1f4-1c61-7886-b99af77f92a8",
+        "baf46bb9-34ce-ee9b-c794-7a40bda38c16",
+        "bb543fa6-7961-9275-2d7e-196bd54a23ea",
+        "bb76b3fc-8943-7ae6-1b3b-668330423a08",
+        "bb823bde-3722-3ccd-a4f6-86b7d49394cc",
+        "bda70ddc-0df8-2802-8708-b83f740d7864",
+        "bed5d01a-b3f4-13a7-9d5e-762454cf94ad",
+        "bfd78e8f-decb-a570-50bd-1a6a171aa157",
+        "bffa80f3-c9e6-64df-c1ac-b75551ce542e",
+        "c06a0ada-f725-477d-6d46-f40c1fca5306",
+        "c0af43cb-c806-2265-1c0b-00646c46fa36",
+        "c219c045-6abb-d27c-14b4-775a6272ecc5",
+        "c581a2be-7806-2f40-35fd-5be46c16ecb4",
+        "c5ad9525-6b44-7524-9001-6dbf58ba3f8d",
+        "c88367fa-bb18-ef4a-3081-f48a7ba88cea",
+        "cbcb084f-3698-b64b-e789-eaa05b4b968a",
+        "cfe97055-abb9-ff08-7a98-2801a2671478",
+        "d082b2c4-aeed-a828-9550-a5af24443cb9",
+        "d0e03e7a-68b9-54dc-3c29-a43b0ae964fa",
+        "d2515ca4-6c63-a083-f39f-b860cd9d06c3",
+        "d65871c7-68e7-2215-b9de-f078eaf46599",
+        "d828ae61-a281-5f93-1001-7bcbf4b40cc9",
+        "d839be01-b9df-957c-316a-3c11cdedec42",
+        "d9f44803-4b4f-a0ff-0835-c3bb7b1985a7",
+        "db089d45-f8be-d20e-91d8-e4d2644eed47",
+        "db24f2aa-9e3e-9280-d9b5-132f051a7f73",
+        "dbe288f3-f2dc-c58c-f1e7-b33b97111801",
+        "dd5ed2c7-a05f-7cf6-6eae-53eb661c66ab",
+        "dd7ac12b-f977-1764-e31b-7ed2bddfeda8",
+        "de064ec9-6de9-997d-9daf-1161ee2e3c4d",
+        "e0d2a37a-b8d0-cc0a-2759-52317b4bb2ca",
+        "e1bf8f55-6e37-4d28-ddd5-579cc3a9cab5",
+        "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
+        "e3707763-18b2-fc2a-a887-02cb183dcb6b",
+        "e4fc138a-1f3e-79e7-84b2-9689c5dbdecb",
+        "e869a525-e8e6-c218-ad92-2c2dba80a7d2",
+        "e8b42e8c-e37c-40bf-b7b4-1f5195d72690",
+        "ea2de373-b936-a29d-2b8e-89c2bc2f5542",
+        "eb5fe566-23b8-e733-2db1-e039a6de5a3f",
+        "ebde22d4-f66f-8f2d-f8f6-beeca42d9178",
+        "ed95386f-9cc5-9ba7-2567-d1617705f944",
+        "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+        "ee094e9d-e3ec-13ce-28a6-6fc7d0e59f95",
+        "ee6098ec-599f-4d20-dbb9-b51c786afa1a",
+        "ef074b98-688d-4fa9-93dc-73d991a28b24",
+        "f03f6397-ca52-8992-b76e-7d104f154b04",
+        "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f",
+        "f19d5b9e-2716-8c47-4bce-b1861fbdd454",
+        "f2f3955f-f905-d4ee-7f3d-e5c730dfc8fd",
+        "f58568d1-ff6c-0561-0704-5f12f1a32760",
+        "f5cb967d-cc99-9ec9-296a-839dec0e993b",
+        "f627ec58-a64c-a249-aab0-9990cc2c2dfa",
+        "f6442412-9f18-5219-3f0c-6a18d3890cdb",
+        "f7a31ffe-034e-6646-62fe-6bdad06fbfbe",
+        "f878064a-8e8e-8f1c-d794-481fff02b6bf",
+        "f8b355f8-5654-485c-b227-603f9371a839",
+        "f9110ff1-ebbd-b03c-8538-0486be87fc64",
+        "fbbf965d-8f31-e03d-eca1-401c72b65225",
+        "fd2a1408-90dc-d273-cb35-336ce213b393",
+        "fd857fe9-7ab1-4d4c-4da1-0ad2881e5112",
+        "fdb0250f-4f23-da78-4dd7-544583d52439",
+        "fe3e085e-74c9-aa27-23b2-b39fd795b91a",
+        "fe8c976f-7a53-066b-2642-5430b26ee569",
+        "ffb7cb17-07eb-6e84-a87d-1b670bd6219d"
+    ]
 }
