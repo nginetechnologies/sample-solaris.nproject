@@ -1,0 +1,198 @@
+{
+    "guid": "de064ec9-6de9-997d-9daf-1161ee2e3c4d",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f5d668e2-d0a6-bed8-993f-23257b66f36d",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0a7ba65d-135b-5305-6a14-d10c375ddc67",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Robot Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "f4e45c1e-8d5c-b325-f1e5-47b3f6f68f84",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
+                                "202013cd-6eed-43d8-8ca4-555b393fb9e9",
+                                "ef074b98-688d-4fa9-93dc-73d991a28b24"
+                            ],
+                            "jump_animations": [
+                                "40ebf4d2-b44a-47a1-8638-ef100a595d82",
+                                "f8b355f8-5654-485c-b227-603f9371a839",
+                                "4298c884-2217-4576-bf0b-2774e8a6a515"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d692392d-cca2-25f0-97f5-1127c2e270fd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Robot Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8931f32d-7522-7ffa-0a21-c19232bfc9da",
+                                "material_instance": "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "55947494-2f83-ef2e-158a-198d8878499e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c4d9cc32-d677-5dce-0e55-109a6d2cb40f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Robot Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "620be590-c551-a7a1-d456-65258ecbc37c",
+                                "material_instance": "168afce9-5187-0e51-633f-16d8963b418d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "baedeae8-b1f4-1c61-7886-b99af77f92a8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "15eb5b27-4074-babc-65a2-7fb42b610f8a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Robot White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9f565e28-1aa8-5df3-6a71-f717c9f13735",
+                                "material_instance": "2acb44fd-8f14-e949-f08d-c398aef25d00"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0cfe740b-f015-3f29-8bdd-ae578ce2aa56"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d1c5ae94-d56d-362d-6d0c-2cebd0cbe675",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Robot Grey"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "84c4fc94-8c05-4167-a7ff-93e031796da9",
+                                "material_instance": "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "6dabc083-028e-5745-bee6-54d16ec09264"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1f978ec2-8ddb-9c5d-40a4-c69c7656f7b0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Robot Silver"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
+                                "material_instance": "00a25ff7-f322-be3c-eba7-40138e52c875"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "888b2656-142b-6510-0aa6-48d5e4f0adf6"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "de064ec9-6de9-997d-9daf-1161ee2e3c4d"
+    },
+    "dependencies": [
+        "3a98ae42-46e1-eb69-b2eb-70cc6093bc4b",
+        "8931f32d-7522-7ffa-0a21-c19232bfc9da",
+        "55947494-2f83-ef2e-158a-198d8878499e",
+        "168afce9-5187-0e51-633f-16d8963b418d",
+        "620be590-c551-a7a1-d456-65258ecbc37c",
+        "baedeae8-b1f4-1c61-7886-b99af77f92a8",
+        "2acb44fd-8f14-e949-f08d-c398aef25d00",
+        "9f565e28-1aa8-5df3-6a71-f717c9f13735",
+        "0cfe740b-f015-3f29-8bdd-ae578ce2aa56",
+        "f07bec9a-7ac5-f672-65a2-7dfb6298ad2f",
+        "84c4fc94-8c05-4167-a7ff-93e031796da9",
+        "6dabc083-028e-5745-bee6-54d16ec09264",
+        "00a25ff7-f322-be3c-eba7-40138e52c875",
+        "adad63b7-dfae-0dc1-ff1c-3a419f357a35",
+        "888b2656-142b-6510-0aa6-48d5e4f0adf6",
+        "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+        "e2b7d8c0-866f-45e5-9c1e-8437baf09000",
+        "202013cd-6eed-43d8-8ca4-555b393fb9e9",
+        "ef074b98-688d-4fa9-93dc-73d991a28b24",
+        "40ebf4d2-b44a-47a1-8638-ef100a595d82",
+        "f8b355f8-5654-485c-b227-603f9371a839",
+        "4298c884-2217-4576-bf0b-2774e8a6a515"
+    ]
+}

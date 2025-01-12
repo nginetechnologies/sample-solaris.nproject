@@ -1,0 +1,20 @@
+{
+    "guid": "202013cd-6eed-43d8-8ca4-555b393fb9e9",
+    "source": "A_Robot_Walk.fbx",
+    "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "202013cd-6eed-43d8-8ca4-555b393fb9e9"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "eddd8214-b9e9-8bdb-a3d6-17a6446490e8"
+    ],
+    "instanceGuid": "ea5a44d1-b6e2-aed0-944d-db62d0323623"
+}
